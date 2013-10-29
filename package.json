@@ -1,0 +1,35 @@
+{
+  "name": "getprimus",
+  "version": "0.0.0",
+  "description": "Workshopper lessons for Primus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/primus/lessons.git"
+  },
+  "keywords": [
+    "Primus",
+    "workshopper",
+    "real-time",
+    "tutorial",
+    "lessons",
+    "learning",
+    "realtime",
+    "websockets"
+  ],
+  "author": "Arnout Kazemier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/primus/lessons/issues"
+  },
+  "dependencies": {
+    "workshopper": "~0.3.3",
+    "ws": "~0.4.31",
+    "primus": "~1.4.4"
+  },
+  "bin": "./getprimus.js",
+  "preferGlobal": true
+}
