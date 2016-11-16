@@ -26,9 +26,9 @@
     "url": "https://github.com/primus/lessons/issues"
   },
   "dependencies": {
-    "workshopper": "2.5.x",
-    "ws": "0.7.x",
-    "primus": "3.0.x"
+    "workshopper": "~2.7.0",
+    "ws": "~1.1.1",
+    "primus": "~6.0.5"
   },
   "bin": "./getprimus.js",
   "preferGlobal": true
